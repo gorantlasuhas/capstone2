@@ -1,0 +1,24 @@
+From 1dd4f1e509cd862638037db9f97d6d92ccb39f94 Mon Sep 17 00:00:00 2001
+From: gorantlasuhas <gorantlasuhas@gmail.com>
+Date: Tue, 28 Feb 2023 14:43:44 +0530
+Subject: [PATCH 2/2] chnaged again by suhas
+
+---
+ divide.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/divide.py b/divide.py
+index 8d96366..0085a14 100644
+--- a/divide.py
++++ b/divide.py
+@@ -1,4 +1,4 @@
+ def divide(a, b):
+     if b == 0:
+         raise ValueError("Division by zero!")
+-    return a / b
+\ No newline at end of file
++    return a/b
+\ No newline at end of file
+-- 
+2.35.2.windows.1
+

@@ -1,0 +1,26 @@
+From db28a9b854cd8b98cbebe94430a0e267136d8479 Mon Sep 17 00:00:00 2001
+From: gorantlasuhas <gorantlasuhas@gmail.com>
+Date: Tue, 28 Feb 2023 14:42:09 +0530
+Subject: [PATCH 1/2] divide changed by suhas
+
+---
+ __pycache__/multiply.cpython-39.pyc | Bin 0 -> 269 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 __pycache__/multiply.cpython-39.pyc
+
+diff --git a/__pycache__/multiply.cpython-39.pyc b/__pycache__/multiply.cpython-39.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..77af54ae7988059eb474c4fb36c823aadc1031b7
+GIT binary patch
+literal 269
+zcmYe~<>g`kg4OH(CR+gM#~=<eU;=U+fVfx$NTe{NFt#v6F{Co4Ff}tWGNdpEGib6T
+zgVewPhz-KdKwQiLBx)FH7)2O>>KOf2GH5d0Vobcnm{i0FlmQdJ^pdS&LW@(2ieuar
+zf`dH$LStM~i?d7e3u2NJ3yMqf^HPmsa!YecG7EAl^$IF)alkkrBZ|RRGZwJ|*;O1R
+s8Hpvu3YjH-noMAkTdV~|nRz7$%OETkpyFE`Ho5sJr8%i~aAP=_06YCP?*IS*
+
+literal 0
+HcmV?d00001
+
+-- 
+2.35.2.windows.1
+
