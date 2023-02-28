@@ -1,9 +1,9 @@
-from addition import add
-from subtraction import subtract
-from multiplication import multiply
-from division import divide
+from add import add
+from sub import subtract
+from multiply import multiply
+from divide import divide
 from power import power
-from remainder import remainder
+from rem import remainder
 
 def solve(operation, a, b):
     if operation == "+":
